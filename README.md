@@ -1,4 +1,4 @@
-# [COMMUNITY NAME]
+# DEG Rwanda
 ## Table of Contents
 ### 0.7.0 Onboarding - Define PURPOSE [v7myJourney]
 - 0.7.1 Public Courses [v7gr1ecology]
